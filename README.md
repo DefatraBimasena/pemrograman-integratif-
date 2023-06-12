@@ -20,7 +20,7 @@ Projek gRPC CRUD ini akan create, read, update, delete, dan list database mahasi
 
 ## Langkah pengerjaan
 
-1. Clone project git clone https://github.com/ilyasash/pemrogaman-integratif
+1. Clone projectnya
 2. Init code enc npm i
 3. membuat database di mysql lalu hubungkan nama database nya ke
 const PROTO_PATH = './service_def.proto'; ganti service_def dengan nama database yang dibuat
