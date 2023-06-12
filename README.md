@@ -25,16 +25,5 @@ Projek gRPC CRUD ini akan create, read, update, delete, dan list database mahasi
 3. membuat database di mysql lalu hubungkan nama database nya ke
 const PROTO_PATH = './service_def.proto'; ganti service_def dengan nama database yang dibuat
 
-
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/JqtWmFT/image.png)
-![App Screenshot](https://i.ibb.co/f4tM3Wn/image.png)
-
-
-
-## Authors
-
-- Maulana Ilyasa shafrizaliansyah_5027211065
-- [@ilyasash](https://github.com/ilyasash)
+Adimas Defatra 5027211040
 
