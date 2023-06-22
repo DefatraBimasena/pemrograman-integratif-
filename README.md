@@ -1,7 +1,7 @@
 
 # Tugas Pemrogaman-integratif B
 
-Projek gRPC CRUD ini akan create, read, update, delete, dan list database mahasiswa
+Projek gRPC CRUD create, read, update, dan delete 
 
 Adimas Defatra 5027211040
 
